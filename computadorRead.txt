@@ -1,0 +1,5 @@
+Intel1; 641; Lenov1 versao 23; 10011
+Intel2; 642; Lenov2; 10012
+Intel3; 643; Lenov3; 10013
+Intel4; 644; Lenov4; 10014
+Intel5; 645; Lenov5; 10015

@@ -1,0 +1,4 @@
+Computador{cpu='AMD1', ram=1281, marca='Asus1', id=11}
+Computador{cpu='AMD2', ram=1282, marca='Asus2', id=12}
+Computador{cpu='AMD3', ram=1283, marca='Asus3', id=13}
+Computador{cpu='AMD4', ram=1284, marca='Asus4', id=14}
